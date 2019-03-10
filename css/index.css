@@ -1,0 +1,54 @@
+body {
+    /* background-image: url("../images/black_background.jpg"); */
+    background:#edf0f2;
+    background-size: cover;
+}
+.wrapper {
+    background: white;
+    box-shadow:0 0 1em rgb(99, 224, 3);
+}
+.navigation-links {
+    font-size: 20px;
+    padding: 20px;
+}
+.header-brand {
+    font-size: 25px;
+    padding: 20px;
+    font-weight: bold;
+}
+.navigation-links a, .header-brand a {
+    padding: 30px;
+}
+.caurosal_slider {
+    padding:0px;
+}
+.intro {
+    padding: 100px;
+}
+.services {
+    padding: 30px;
+}
+.sub{
+    padding:12px;
+    width:32%;
+    height:150px;
+    display:table-cell;
+    border-right:solid #a175c4 1px;  
+}
+.sub:last-child {border:0px}
+.footer ul {
+    list-style-type: none;
+}
+.footer-brand a {
+    font-size: 35px;
+    color: yellow;
+}
+.contact {
+    padding: 100px;
+}
+.about {
+    padding: 100px;
+}
+/* .carousel-inner {
+    box-shadow: 0px 0px 10px 2px #7f7f7f;
+} */
